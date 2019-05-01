@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
 
-I decided to explore a little bit into algorithm speeds and found a course in Data Structures and Algorithms. This folder is a collection of my different attempts at interview problems! I have my initial attempts at the problem, as well as other solutions that may be faster or utilize other methods.
+I decided to explore a some data structures and algorithms. This folder is a collection of my different attempts at interview problems that demonstrate various algorithm knowledge
 
 ## Topics Covered
 
@@ -11,3 +11,5 @@ I decided to explore a little bit into algorithm speeds and found a course in Da
 ### Linked List
 
 ### Recursion
+
+### Graph Overview
